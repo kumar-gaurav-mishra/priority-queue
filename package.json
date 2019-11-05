@@ -1,5 +1,5 @@
 {
-  "name": "priority-queue",
+  "name": "priority-queue-ds",
   "version": "1.0.0",
   "description": "Priority Queue implementation in JavaScript",
   "main": "index.js",
