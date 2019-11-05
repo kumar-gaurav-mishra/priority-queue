@@ -6,12 +6,12 @@ Priority Queue Implementation in JavaScript
 
 ```Installation
 
-npm install priority-queue
+npm install priority-queue-ds
 
 ```
 
 ```Javascript
-const Queue = require('priority-queue');
+const Queue = require('priority-queue-ds');
 
 let queue = new Queue();
 queue.enqueue("Walk the dog", 10); // enqueue take first argument as event and second argument as priority. Priority 1 is greater than 2
